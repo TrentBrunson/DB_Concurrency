@@ -1,6 +1,7 @@
 -- DML DB and Tables  ------------------------
 ----------------------------------------------
 
+
 CREATE DATABASE DML;
 
 DROP TABLE IF EXISTS Employees;
